@@ -12,6 +12,7 @@
 * Best coding practices! 
 * Javascript and CSS and their frameworks.
 * Developer culture.
+
 ---
 
 ### What is something about you that can only be learned by reading this blog?
