@@ -9,8 +9,9 @@
 
 ### What are you excited or eager to learn more about?
 * I'm definitely excited to fine tune my skills in the git-flow work strategy, and learn more about how a team works together within a company.
-* Best coding practices! Javascript and CSS
-* Developer culture
+* Best coding practices! 
+* Javascript and CSS and their frameworks.
+* Developer culture.
 ---
 
 ### What is something about you that can only be learned by reading this blog?
