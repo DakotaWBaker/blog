@@ -49,5 +49,18 @@ button:hover {
 ### What methods do you use to help yourself get unstuck?
 * To help myself get unstuck I usually take a breather and step away from my computer.
 * Go outside and get some fresh air and try to think through the problem I am facing. 
+ 
+----
+
+### What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
+* I like the comparison of html, css, JS to the purple (css-adjectives) dino(html-nouns) danced(javascript-verbs)
+* It's been very intriguing seeing how the 3 work together to render content.
+
+### What are some objects that your blog incorporates?
+* As of right now, my blog only contains markdown syntax. It incorporates header elements, lists, images, and a code block.
+* I plan on adding html to my blog this weekend, and styling it with css. Hopefully incorporating some javascript at some point to make it dynamic instead of a static page. 
+
+### What are your thoughts on pseudocoding?
+* I think pseudocoding has been the most cruicial thing we've learned so far. It's really opened my eyes to how a programmer should think. I think the more we work on pseudocode the easier it will become to think through problems logically, and devise a structured plan to any application/project we build throughout the course.
 
 
