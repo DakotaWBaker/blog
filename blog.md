@@ -63,4 +63,12 @@ button:hover {
 ### What are your thoughts on pseudocoding?
 * I think pseudocoding has been the most cruicial thing we've learned so far. It's really opened my eyes to how a programmer should think. I think the more we work on pseudocode the easier it will become to think through problems logically, and devise a structured plan to any application/project we build throughout the course.
 
+### What was helpful during Onboarding working remotely?
+* It was very helpful to have the month of basics and being able to still work while learning. The projects, and learning more about pseudocode was the most beneficial part for me. 
+### What hindered your progress during Onboarding?
+* Time management was really the only thing that hindered me during onboarding.
+
+### How did you overcome challenges during Onboarding?
+* I had to learn better time management and staying on task. 
+* I overcame challenges while learning by taking a breather and thinking through it. 
 
