@@ -72,3 +72,15 @@ button:hover {
 * I had to learn better time management and staying on task. 
 * I overcame challenges while learning by taking a breather and thinking through it. 
 
+
+### What is the number one thing that held you back this week? Why?
+* The number one thing that held me back this week was just the change of pace and overthinking. I think I had a bit of imposter syndrome starting off the week, but as the week progressed my confidence got a lot better.
+
+### What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+* I would like to learn more about data structures and algorithms. I know they are very important to thinking like a programmer, and the interview process. I would love to get a better grasp on them, but the morning warmups have definitely been helping.
+ 
+### How does In-Person Bootcamp compare to Remote Onboarding?
+* In-person bootcamp is much better than remote onboarding for me. It's so much easier to learn in a good enviroment surrounded by like-minded people. 
+
+### What is your “Why”?
+* My why is because I have spent the last 4 years since I got out of the military being very self destructive and doing nothing with my life. I had nothing going for me and no plans for the future. I feel like this is my one chance to accomplish something great, and finally have a solid career that I am happy with doing something I really enjoy. 
