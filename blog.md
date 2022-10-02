@@ -84,3 +84,22 @@ button:hover {
 
 ### What is your “Why”?
 * My why is because I have spent the last 4 years since I got out of the military being very self destructive and doing nothing with my life. I had nothing going for me and no plans for the future. I feel like this is my one chance to accomplish something great, and finally have a solid career that I am happy with doing something I really enjoy. 
+
+
+### What did you learn about that helped you understand the development process?
+- That extra time and hours makes a huge difference, and that understanding how to think like a programmer is much more effective than memorizing syntax.
+
+### What does it mean to develop good code?
+- Good code is easy to read and understand. Plenty of comments explaining what the code is doing.
+- Following naming conventions makes your code a lot easier to understand.
+- No WET code
+- Good layout and extensive pseudocoding
+
+### What does it mean to be a good developer?
+- Good clean code.
+- Thinking about every possible thing that could cause an issue with your code (defensive programming)
+- Good teamwork and communication skills. Well informed about the agile process
+- Understanding best practices, and being efficient with your tools.
+
+### What is one thing that programmers hate doing?
+- Debugging
